@@ -189,6 +189,9 @@ key_ping.key.mine:key.keyboard.keypad.5
 key_ping.key.look:key.keyboard.keypad.6
 key_ping.key.goto:key.keyboard.keypad.8
 key_key.botania_corporea_request:key.keyboard.c
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.curios.open.desc:key.keyboard.g
 key_key.next_image:key.keyboard.down
 key_key.previous_image:key.keyboard.up
