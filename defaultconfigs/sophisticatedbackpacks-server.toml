@@ -56,10 +56,10 @@
 	[server.netheriteBackpack]
 		#Number of inventory slots in the backpack
 		#Range: 1 ~ 144
-		inventorySlotCount = 120
+		inventorySlotCount = 144
 		#Number of upgrade slots in the backpack
 		#Range: 0 ~ 10
-		upgradeSlotCount = 7
+		upgradeSlotCount = 10
 
 	#Compacting Upgrade Settings
 	[server.compactingUpgrade]
@@ -74,10 +74,10 @@
 	[server.advancedCompactingUpgrade]
 		#Number of Advanced Compacting Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 16
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 4
+		slotsInRow = 5
 
 	#Deposit Upgrade Settings
 	[server.depositUpgrade]
@@ -92,10 +92,10 @@
 	[server.advancedDepositUpgrade]
 		#Number of Advanced Deposit Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 16
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 4
+		slotsInRow = 5
 
 	#Feeding Upgrade Settings
 	[server.feedingUpgrade]
@@ -110,10 +110,10 @@
 	[server.advancedFeedingUpgrade]
 		#Number of Advanced Feeding Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 16
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 4
+		slotsInRow = 5
 
 	#Filter Upgrade Settings
 	[server.filterUpgrade]
@@ -128,10 +128,10 @@
 	[server.advancedFilterUpgrade]
 		#Number of Advanced Filter Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 16
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 4
+		slotsInRow = 5
 
 	#Magnet Upgrade Settings
 	[server.magnetUpgrade]
@@ -149,10 +149,10 @@
 	[server.advancedMagnetUpgrade]
 		#Number of Advanced Magnet Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 16
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 4
+		slotsInRow = 5
 		#Range around storage in blocks at which magnet will pickup items
 		#Range: 1 ~ 20
 		magnetRange = 5
@@ -170,10 +170,10 @@
 	[server.advancedPickupUpgrade]
 		#Number of Advanced Pickup Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 16
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 4
+		slotsInRow = 5
 
 	#Refill Upgrade Settings
 	[server.refillUpgrade]
@@ -188,10 +188,10 @@
 	[server.advancedRefillUpgrade]
 		#Number of Advanced Refill Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 12
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 4
+		slotsInRow = 5
 
 	#Restock Upgrade Settings
 	[server.restockUpgrade]
@@ -206,10 +206,10 @@
 	[server.advancedRestockUpgrade]
 		#Number of Advanced Restock Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 16
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 4
+		slotsInRow = 5
 
 	#Void Upgrade Settings
 	[server.voidUpgrade]
@@ -226,10 +226,10 @@
 	[server.advancedVoidUpgrade]
 		#Number of Advanced Void Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 16
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 4
+		slotsInRow = 5
 		#Determines whether void upgrade allows voiding anything or it only has overflow option
 		voidAnythingEnabled = true
 
