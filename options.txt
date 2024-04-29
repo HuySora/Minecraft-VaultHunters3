@@ -48,7 +48,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","packmenu","quark:emote_resources","resources/VHBook.zip"]
+resourcePacks:["vanilla","mod_resources","Everycomp Generated Pack","Supplementaries Generated Pack","packmenu","quark:emote_resources","resources/VHBook.zip","file/Slightly-Improved-Font-1.1.3.zip"]
 incompatibleResourcePacks:["packmenu","quark:emote_resources"]
 lastServer:192.168.
 lang:en_us
