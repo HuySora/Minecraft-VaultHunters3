@@ -258,6 +258,7 @@ key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
 key_quark.keybind.camera_mode:key.keyboard.f12
+key_key.nbtedit.shortcut:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
 key_key.the_vault.open_ability_tree:key.keyboard.h
 key_key.the_vault.ability_key:key.keyboard.g
